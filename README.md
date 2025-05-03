@@ -1,21 +1,19 @@
-🐦 Social Media Platform
-A full-stack social media platform backend built using Spring Boot, Spring Security, JWT, and MySQL, providing user authentication, posting, commenting, following, and role-based access control.
+# 🐦 Social Media Platform
 
-🚀 Features
-✅ User registration & login with JWT-based authentication
-✅ Role-based authorization (Admin, User, etc.)
-✅ CRUD operations for Posts and Comments
-✅ Follow/Unfollow system between users
-✅ View user profiles with posts, followers, following, and comments
-✅ Secure password handling using BCrypt
-✅ MySQL database integration
-✅ DTOs for clean API responses
-✅ Proper use of Services, Repositories, and Controllers following MVC architecture
+A full-stack social media platform backend built using **Spring Boot**, **Spring Security**, **JWT**, and **MySQL**, providing user authentication, posting, commenting, following, and role-based access control.
 
-📐 Project Structure
-css
-Copy
-Edit
+## 🚀 Features
+- ✅ User registration & login with JWT-based authentication
+- ✅ Role-based authorization (Admin, User, etc.)
+- ✅ CRUD operations for Posts and Comments
+- ✅ Follow/Unfollow system between users
+- ✅ View user profiles with posts, followers, following, and comments
+- ✅ Secure password handling using BCrypt
+- ✅ MySQL database integration
+- ✅ DTOs for clean API responses
+- ✅ Proper use of Services, Repositories, and Controllers following MVC architecture
+
+## 📐 Project Structure
 src/
  └── main/
       ├── java/com/example/social_media_platform/
@@ -27,76 +25,72 @@ src/
       │     └── security/
       └── resources/
             └── application.properties
-Key Packages:
-model: Entity classes (User, Post, Comment, Role, Follower)
 
-dto: Data Transfer Objects for API responses
 
-controller: REST APIs (Authentication, Post, Comment, User, Follow)
+### **Key Packages**
+- `model` - Entity classes (User, Post, Comment, Role, Follower)
+- `dto` - Data Transfer Objects for API responses
+- `controller` - REST APIs (Authentication, Post, Comment, User, Follow)
+- `service` - Business logic
+- `repository` - Spring Data JPA repositories
+- `security` - JWT configuration, filters, token provider
 
-service: Business logic
+## 🗄️ Database Schema
+- ✅ MySQL relational schema with tables: `users`, `roles`, `posts`, `comments`, `followers`
+- ✅ **Entity relationships:**
+  - **OneToMany**: User → Posts, User → Comments
+  - **ManyToMany**: User ↔ Role, User ↔ Followers
 
-repository: Spring Data JPA repositories
+## 📝 API Endpoints (Sample)
+| Method | Endpoint | Description |
+|--------|---------|-------------|
+| POST | `/api/auth/register` | Register new user |
+| POST | `/api/auth/login` | User login (JWT response) |
+| GET | `/api/users/{id}` | View user profile |
+| POST | `/api/follow` | Follow a user |
+| DELETE | `/api/follow/{id}` | Unfollow a user |
+| POST | `/api/posts` | Create a post |
+| GET | `/api/posts/{id}` | View post details |
+| POST | `/api/comments` | Comment on a post |
 
-security: JWT configuration, filters, token provider
-
-🗄️ Database Schema
-✅ MySQL relational schema with tables: users, roles, posts, comments, followers
-✅ Entity relationships:
-
-OneToMany: User → Posts, User → Comments
-
-ManyToMany: User ↔ Role, User ↔ Followers
-
-📝 API Endpoints (sample)
-Method	Endpoint	Description
-POST	/api/auth/register	Register new user
-POST	/api/auth/login	User login (JWT response)
-GET	/api/users/{id}	View user profile
-POST	/api/follow	Follow a user
-DELETE	/api/follow/{id}	Unfollow a user
-POST	/api/posts	Create a post
-GET	/api/posts/{id}	View post details
-POST	/api/comments	Comment on a post
-
-➡️ All protected endpoints require Authorization header:
-
-makefile
-Copy
-Edit
+➡️ **All protected endpoints require an Authorization header:**
+```makefile
 Authorization: Bearer <JWT_TOKEN>
-🏃‍♂️ Running Locally
-Clone repo:
+
+# 🏃‍♂️ Social Media Platform  
+
+A full-stack social media platform backend built using **Spring Boot**, **Spring Security**, **JWT**, and **MySQL**, providing secure authentication, posting, commenting, following, and role-based access control.
+
+## 🚀 Running Locally  
+
+### 1️⃣ Clone the repository  
+```bash
 git clone https://github.com/yourusername/social-media-platform.git
 
-Configure MySQL database in application.properties:
+2️⃣ Configure MySQL database
+Edit application.properties:
 
 properties
-Copy
-Edit
 spring.datasource.url=jdbc:mysql://localhost:3306/social_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
-Run MySQL and create database social_db
+Run MySQL and create the database social_db.
 
-Start app:
-
+3️⃣ Start the application
 bash
-Copy
-Edit
 ./mvnw spring-boot:run
 App runs at http://localhost:8080
 
-✅ Use Postman or frontend to test the APIs.
+✅ Use Postman or a frontend client to test the APIs.
 
 🔐 Authentication Flow
-User registers → stored with encoded password
+User registers → stored with encoded password.
 
-User logs in → returns JWT token
+User logs in → returns JWT token.
 
-Include token in Authorization header for all protected routes
+Include token in Authorization header for all protected routes.
 
-Roles & authorities validated using Spring Security config
+Roles & authorities validated using Spring Security.
 
 🛠️ Technologies Used
 Java 17
@@ -116,11 +110,10 @@ Lombok
 Maven
 
 ✍️ Contributions
-Pull requests welcome! Feel free to fork and improve.
+Pull requests are welcome! Feel free to fork and improve. 🚀
 
 👨‍💻 Author
-Your Name
-GitHub | LinkedIn
+Your Name Affaan | LinkedIn
 
 📃 License
 This project is licensed under the MIT License.
