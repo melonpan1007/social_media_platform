@@ -103,7 +103,7 @@ Maven
 Pull requests welcome! Feel free to fork and improve. 🚀
 
 👨‍💻 Author
-Your Name GitHub | LinkedIn
+Your Name Affaan  | LinkedIn : https://www.linkedin.com/in/affaan-shaikh-as1007/
 
 📃 License
 This project is licensed under the MIT License.
