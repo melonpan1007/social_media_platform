@@ -53,30 +53,20 @@ src/
 | GET | `/api/posts/{id}` | View post details |
 | POST | `/api/comments` | Comment on a post |
 
-➡️ **All protected endpoints require an Authorization header:**
-```makefile
-Authorization: Bearer <JWT_TOKEN>
-
-# 🏃‍♂️ Social Media Platform  
-
-A full-stack social media platform backend built using **Spring Boot**, **Spring Security**, **JWT**, and **MySQL**, providing secure authentication, posting, commenting, following, and role-based access control.
-
-## 🚀 Running Locally  
-
-### 1️⃣ Clone the repository  
-```bash
+🏃‍♂️ Running Locally
+1. Clone repo
+bash
 git clone https://github.com/yourusername/social-media-platform.git
-
-2️⃣ Configure MySQL database
+2. Configure MySQL database
 Edit application.properties:
 
 properties
 spring.datasource.url=jdbc:mysql://localhost:3306/social_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
-Run MySQL and create the database social_db.
+Run MySQL and create database social_db.
 
-3️⃣ Start the application
+3. Start app
 bash
 ./mvnw spring-boot:run
 App runs at http://localhost:8080
@@ -90,7 +80,7 @@ User logs in → returns JWT token.
 
 Include token in Authorization header for all protected routes.
 
-Roles & authorities validated using Spring Security.
+Roles & authorities validated using Spring Security config.
 
 🛠️ Technologies Used
 Java 17
@@ -110,10 +100,10 @@ Lombok
 Maven
 
 ✍️ Contributions
-Pull requests are welcome! Feel free to fork and improve. 🚀
+Pull requests welcome! Feel free to fork and improve. 🚀
 
 👨‍💻 Author
-Your Name Affaan | LinkedIn
+Your Name GitHub | LinkedIn
 
 📃 License
 This project is licensed under the MIT License.
