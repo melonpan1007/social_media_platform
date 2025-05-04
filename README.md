@@ -107,3 +107,19 @@ Your Name Affaan  | LinkedIn : https://www.linkedin.com/in/affaan-shaikh-as1007/
 
 📃 License
 This project is licensed under the MIT License.
+
+![image_2025-05-04_182308888](https://github.com/user-attachments/assets/25730d2c-3af6-4d99-b85b-e17047637187)
+![image_2025-05-04_182338960](https://github.com/user-attachments/assets/a1747199-3649-4bee-9291-5fc934bd79ff)
+![image_2025-05-04_182259049](https://github.com/user-attachments/assets/5d76c5ce-e71c-48d6-9ea8-535c3ae2ccfa)
+![image_2025-05-04_182355884](https://github.com/user-attachments/assets/7bb19c45-ec96-4f9a-bc45-9ac2e2af252f)
+![image_2025-05-04_182347838](https://github.com/user-attachments/assets/105f873b-e9f8-4f1b-9b4a-404d2e528b58)
+![image_2025-05-04_182523910](https://github.com/user-attachments/assets/c892503b-c8da-41bd-9647-8eb5103b1cf9)
+![Screenshot 2025-05-03 182101](https://github.com/user-attachments/assets/ef42580a-2125-4e23-b3d4-503a8c037951)
+![image_2025-05-04_182518565](https://github.com/user-attachments/assets/b06c9bec-b526-41f2-b3a4-162c45136de4)
+![image_2025-05-04_182511986](https://github.com/user-attachments/assets/220821bc-8c50-48c2-8799-03b45feebf79)
+![image_2025-05-04_182506318](https://github.com/user-attachments/assets/ebead954-ee6d-4644-9b9d-de708b1e9154)
+![image_2025-05-04_182454895](https://github.com/user-attachments/assets/fcd389a1-f9c4-4b87-be3f-dc084e2b51fd)
+![image_2025-05-04_182445995](https://github.com/user-attachments/assets/06a30a2e-4b0c-41d0-b3bc-282fd2db9a60)
+
+![userdb](https://github.com/user-attachments/assets/5b892116-1b35-4aad-b3e4-915b26498f5a)
+![postdb](https://github.com/user-attachments/assets/da981b51-5139-4f36-9993-9754fde9ef01)
