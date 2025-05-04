@@ -108,18 +108,28 @@ Your Name Affaan  | LinkedIn : https://www.linkedin.com/in/affaan-shaikh-as1007/
 📃 License
 This project is licensed under the MIT License.
 
-![image_2025-05-04_182308888](https://github.com/user-attachments/assets/25730d2c-3af6-4d99-b85b-e17047637187)
-![image_2025-05-04_182338960](https://github.com/user-attachments/assets/a1747199-3649-4bee-9291-5fc934bd79ff)
-![image_2025-05-04_182259049](https://github.com/user-attachments/assets/5d76c5ce-e71c-48d6-9ea8-535c3ae2ccfa)
-![image_2025-05-04_182355884](https://github.com/user-attachments/assets/7bb19c45-ec96-4f9a-bc45-9ac2e2af252f)
-![image_2025-05-04_182347838](https://github.com/user-attachments/assets/105f873b-e9f8-4f1b-9b4a-404d2e528b58)
-![image_2025-05-04_182523910](https://github.com/user-attachments/assets/c892503b-c8da-41bd-9647-8eb5103b1cf9)
-![Screenshot 2025-05-03 182101](https://github.com/user-attachments/assets/ef42580a-2125-4e23-b3d4-503a8c037951)
-![image_2025-05-04_182518565](https://github.com/user-attachments/assets/b06c9bec-b526-41f2-b3a4-162c45136de4)
-![image_2025-05-04_182511986](https://github.com/user-attachments/assets/220821bc-8c50-48c2-8799-03b45feebf79)
-![image_2025-05-04_182506318](https://github.com/user-attachments/assets/ebead954-ee6d-4644-9b9d-de708b1e9154)
-![image_2025-05-04_182454895](https://github.com/user-attachments/assets/fcd389a1-f9c4-4b87-be3f-dc084e2b51fd)
-![image_2025-05-04_182445995](https://github.com/user-attachments/assets/06a30a2e-4b0c-41d0-b3bc-282fd2db9a60)
+![image](https://github.com/user-attachments/assets/d0ca1765-8223-43ee-80a0-fd7eb6761121)
+
+![image](https://github.com/user-attachments/assets/f283799a-9328-40f5-ba9c-67adfbdb423e)
+
+![image](https://github.com/user-attachments/assets/97cf275c-598b-416e-8c50-98fb42d5111c)
+
+![image](https://github.com/user-attachments/assets/696945dd-bd0b-4290-9cf5-b73be7bf2495)
+
+![image](https://github.com/user-attachments/assets/67c83e1e-50ee-4f8e-b917-5d6875661c25)
+
+![image](https://github.com/user-attachments/assets/08289087-699a-430f-b3bb-e1fd5ef63e88)
+
+![image](https://github.com/user-attachments/assets/a2e902b0-56c4-4067-adf6-26ddc7d5c6e0)
+
+![image](https://github.com/user-attachments/assets/de4d300c-5523-4add-a043-4ba7e14e0e16)
+
+![image](https://github.com/user-attachments/assets/69876f49-fb5a-4b6d-816c-b8c2628f238d)
+
+![image](https://github.com/user-attachments/assets/8f25de7a-16bf-4c84-95e3-63072433be03)
+
+![image](https://github.com/user-attachments/assets/ddd20075-003f-487d-9da4-514b5277f8ca)
 
 ![userdb](https://github.com/user-attachments/assets/5b892116-1b35-4aad-b3e4-915b26498f5a)
+
 ![postdb](https://github.com/user-attachments/assets/da981b51-5139-4f36-9993-9754fde9ef01)
